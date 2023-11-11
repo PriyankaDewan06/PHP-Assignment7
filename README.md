@@ -5,8 +5,8 @@ Password: 0147258369
 
 Manager Login:
 User Email: manager@gmail.com
-Password: manager
+Password: 0147258369
 
 Employee Login:
 User Email: employee@gmail.com
-Password: employee
+Password: 0147258369
